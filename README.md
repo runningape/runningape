@@ -40,7 +40,7 @@
 
 ### 📊 学习目标
 
-<img src="https://img.shields.io/badge/Go%E8%AF%AD%E8%A8%80-%E5%AD%A6%E4%B9%A0%E4%B8%AD-green?logo=go">  <img src="./images/arrow.svg"> 
+<img src="https://img.shields.io/badge/Go%E8%AF%AD%E8%A8%80-%E5%AD%A6%E4%B9%A0%E4%B8%AD-Indigo?logo=go">  <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/%E9%92%89%E9%92%89%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=dingtalk"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/Swift-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=swift"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/SwiftUI-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=swift"> <img src="./images/arrow.svg"> 
@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/linux-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=linux">
 <br><br>
 <img src="https://img.shields.io/badge/HTML-%E5%B7%B2%E5%AD%A6%E5%AE%8C-cyan?logo=html5"> <img src="./images/arrow.svg"> 
-<img src="https://img.shields.io/badge/css-%E5%AD%A6%E4%B9%A0%E4%B8%AD-green?logo=css"> <img src="./images/arrow.svg"> 
+<img src="https://img.shields.io/badge/css-%E5%AD%A6%E4%B9%A0%E4%B8%AD-Indigo?logo=css"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/Tailwindcss-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=Tailwindcss"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/JavaScript-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=JavaScript"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/TypeScript-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=TypeScript"> <img src="./images/arrow.svg"> 
