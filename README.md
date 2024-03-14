@@ -45,6 +45,13 @@
 <img src="https://img.shields.io/badge/Swift-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=swift"> 🔜 
 <img src="https://img.shields.io/badge/SwiftUI-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=swift"> 🔜 
 <img src="https://img.shields.io/badge/macos/ios%20app-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=macos/ios%20app">  🔜 
+<br>
+<img src="https://img.shields.io/badge/C%E8%AF%AD%E8%A8%80-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=c"> 🔜 
+<img src="https://img.shields.io/badge/51%E5%8D%95%E7%89%87%E6%9C%BA-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=51"> 🔜 
+<img src="https://img.shields.io/badge/stm32%E5%8D%95%E7%89%87%E6%9C%BA-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=stm32"> 🔜 
+<img src="https://img.shields.io/badge/RTOS-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=RTOS"> 🔜 
+<img src="https://img.shields.io/badge/QT-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=qt"> 🔜 
+<img src="https://img.shields.io/badge/linux-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=linux">  🔜 
 
 
 </td></tr>
