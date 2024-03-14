@@ -60,7 +60,12 @@
 <img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C">
 <br>
 <img src="https://img.shields.io/badge/HTML-blue?logo=html5"> <img src="./images/arrow.svg"> 
-CSS Tailwind JavaScript TypeScript Node.js Vue 
+<img src="https://img.shields.io/badge/css-%E5%AD%A6%E4%B9%A0%E4%B8%AD-green?logo=css"> <img src="./images/arrow.svg"> 
+<img src="https://img.shields.io/badge/Tailwindcss-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=Tailwindcss"> <img src="./images/arrow.svg"> 
+<img src="https://img.shields.io/badge/JavaScript-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=JavaScript"> <img src="./images/arrow.svg"> 
+<img src="https://img.shields.io/badge/TypeScript-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=TypeScript"> <img src="./images/arrow.svg"> 
+<img src="https://img.shields.io/badge/Node.js-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=Node.js"> <img src="./images/arrow.svg"> 
+<img src="https://img.shields.io/badge/Vue.js-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=Vue.js"> <img src="./images/arrow.svg"> 
 
 <br><br>
 
