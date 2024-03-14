@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=fmt.Println(%22Hello+World!%22);%E4%BA%BA%E6%9C%89%E4%B8%A4%E6%AC%A1%E7%94%9F%E5%91%BD%EF%BC%8C40%E5%B2%81%E4%B9%8B%E5%89%8D%E6%98%AF%E6%B4%BB%E5%9C%A8%E5%88%AB%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%94%9F%EF%BC%8C;40%E5%B2%81%E4%B9%8B%E5%90%8E%E6%98%AF%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%BF%83%E9%87%8C%E7%9A%84%E4%BA%BA%E7%94%9F%E3%80%82)](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=fmt.Println(%22Hello+World!%22);%E4%BA%BA%E6%9C%89%E4%B8%A4%E6%AC%A1%E7%94%9F%E5%91%BD%EF%BC%8C40%E5%B2%81%E4%B9%8B%E5%89%8D%E6%98%AF%E6%B4%BB%E5%9C%A8%E5%88%AB%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%BA%BA%E7%94%9F%EF%BC%8C;40%E5%B2%81%E4%B9%8B%E5%90%8E%E6%98%AF%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%BF%83%E9%87%8C%E7%9A%84%E4%BA%BA%E7%94%9F%E3%80%82" /></a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
