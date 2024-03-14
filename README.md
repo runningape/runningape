@@ -40,9 +40,12 @@
 
 <tr><td>
 
-### 🤺 学习目标
-
+### 🤺 活动图
+<!-- 活动图 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=runningape&theme=github-compact">
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
 </td></tr>
 
 <tr><td>
@@ -66,31 +69,16 @@
 </table>
 
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/runningape/runningape/assets/images/hr.gif" />
-
 <div align="center">
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="center" width="500" src="https://streak-stats.demolab.com/?user=runningape&theme=dark" />
+<img width="500" src="https://streak-stats.demolab.com/?user=runningape&theme=dark" />
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
 </div>
 
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=runningape&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=runningape&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=runningape&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
-
-</div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/runningape/runningape/assets/images/hr.gif" />
+<img width="200%" src="./line.gif" />
 
 <div align="center" >
 
