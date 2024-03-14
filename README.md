@@ -42,6 +42,9 @@
 
 <img src="https://img.shields.io/badge/Go%E8%AF%AD%E8%A8%80-%E5%AD%A6%E4%B9%A0%E4%B8%AD-green?logo=go"> 🔜 
 <img src="https://img.shields.io/badge/%E9%92%89%E9%92%89%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=dingtalk"> 🔜 
+<img src="https://img.shields.io/badge/Swift-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=swift"> 🔜 
+<img src="https://img.shields.io/badge/SwiftUI-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=swift"> 🔜 
+<img src="https://img.shields.io/badge/macos/ios%20app-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=macos/ios%20app">  🔜 
 
 
 </td></tr>
