@@ -19,13 +19,6 @@
     <img src="https://komarev.com/ghpvc/?username=runningape&color=yellow" alt="访问量统计" />
   </div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/runningape/runningape/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/runningape/runningape/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/runningape/runningape/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
 </div>
 
 #  🙋 Hello
@@ -38,11 +31,9 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/runningape/runningape/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;嗨，大家好，我是小黄同学。</p>
+<p>&emsp;&emsp;42岁开始学编程，纯兴趣爱好哈。</p>
+<p><strong>&emsp;&emsp;人有两次生命，40岁之前是活在别人眼中的人生，40岁之后是活自己心里的人生。</strong></p>
 
 </td></tr>
 
