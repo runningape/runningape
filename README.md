@@ -31,8 +31,13 @@
 <p>&emsp;&emsp;嗨，大家好，我是小黄同学。</p>
 <p>&emsp;&emsp;42岁开始学编程，纯兴趣爱好哈。</p>
 <p><strong>&emsp;&emsp;人有两次生命，40岁之前是活在别人眼中的人生，40岁之后是活自己心里的人生。</strong></p>
-
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
 </td></tr>
+
+
 
 <tr><td>
 
