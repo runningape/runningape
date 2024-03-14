@@ -33,8 +33,7 @@
 <p><strong>&emsp;&emsp;人有两次生命，40岁之前是活在别人眼中的人生，40岁之后是活自己心里的人生。</strong></p>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
+
 </td></tr>
 
 
@@ -64,88 +63,14 @@
 
 </td></tr>
 
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                491 commits         ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-🌆 Daytime                541 commits         ████████░░░░░░░░░░░░░░░░░   30.88 % 
-🌃 Evening                427 commits         ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-🌙 Night                  293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Tuesday                  141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Wednesday                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Thursday                 229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   32.13 % 
-Saturday                 147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Sunday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 2 hrs 35 mins       ████████████████░░░░░░░░░   65.56 % 
-TypeScript               46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 57 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 hrs 57 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 12/03/2024 01:14:15 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
-
 </table>
 
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/runningape/runningape/assets/images/hr.gif" />
 
-<div align="center">
-
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/runningape/runningape/assets/images/man_run.png" width="250" height="250" />
-
-<!-- Joke 笑话 -->
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
-
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/runningape/runningape/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=runningape&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=runningape&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=runningape&theme=default&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/runningape/runningape/assets/images/right.png" />
-
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/runningape/runningape/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/runningape/runningape/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/runningape/runningape/assets/images/cxyduck.gif" />
+<img align="left" width="150" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
