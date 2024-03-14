@@ -44,14 +44,20 @@
 <img src="https://img.shields.io/badge/%E9%92%89%E9%92%89%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=dingtalk"> 🔜 
 <img src="https://img.shields.io/badge/Swift-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=swift"> 🔜 
 <img src="https://img.shields.io/badge/SwiftUI-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=swift"> 🔜 
-<img src="https://img.shields.io/badge/macos/ios%20app-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=macos/ios%20app">  🔜 
-<br>
+<img src="https://img.shields.io/badge/macos/ios%20app-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=macos/ios%20app">
+<br><br>
 <img src="https://img.shields.io/badge/C%E8%AF%AD%E8%A8%80-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=c"> 🔜 
 <img src="https://img.shields.io/badge/51%E5%8D%95%E7%89%87%E6%9C%BA-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=51"> 🔜 
 <img src="https://img.shields.io/badge/stm32%E5%8D%95%E7%89%87%E6%9C%BA-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=stm32"> 🔜 
 <img src="https://img.shields.io/badge/RTOS-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=RTOS"> 🔜 
 <img src="https://img.shields.io/badge/QT-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=qt"> 🔜 
-<img src="https://img.shields.io/badge/linux-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=linux">  🔜 
+<img src="https://img.shields.io/badge/linux-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=linux">
+<br><br>
+<img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95"> 🔜 
+<img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86"> 🔜 
+<img src="https://img.shields.io/badge/%E6%95%B0%E7%94%B5%E4%B8%8E%E6%A8%A1%E7%94%B5-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E6%95%B0%E7%94%B5%E4%B8%8E%E6%A8%A1%E7%94%B5"> 🔜 
+<img src="https://img.shields.io/badge/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F"> 🔜 
+<img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C">
 
 
 </td></tr>
