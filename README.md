@@ -36,7 +36,14 @@
 
 </td></tr>
 
+<tr><td>
 
+### 📊 学习目标
+
+
+
+
+</td></tr>
 
 <tr><td>
 
@@ -45,25 +52,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=runningape&theme=github-compact">
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
-
-</td></tr>
-
-<tr><td>
-
-### 📊 WakaTime
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=runningape&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=runningape&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=runningape&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
 
 </td></tr>
 
