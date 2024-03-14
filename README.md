@@ -69,8 +69,11 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/runningape/runningape/assets/images/hr.gif" />
 
+<div align="center">
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="center" width="500" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" />
+<img align="center" width="500" src="https://streak-stats.demolab.com/?user=runningape&theme=dark" />
+</div>
+
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
