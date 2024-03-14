@@ -53,21 +53,21 @@
 <img src="https://img.shields.io/badge/QT-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=qt"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/linux-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=linux">
 <br><br>
-<img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95"> <img src="./images/arrow.svg"> 
-<img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86"> <img src="./images/arrow.svg"> 
-<img src="https://img.shields.io/badge/%E6%95%B0%E7%94%B5%E4%B8%8E%E6%A8%A1%E7%94%B5-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E6%95%B0%E7%94%B5%E4%B8%8E%E6%A8%A1%E7%94%B5"> <img src="./images/arrow.svg"> 
-<img src="https://img.shields.io/badge/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F"> <img src="./images/arrow.svg"> 
-<img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C">
-<br>
 <img src="https://img.shields.io/badge/HTML-blue?logo=html5"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/css-%E5%AD%A6%E4%B9%A0%E4%B8%AD-green?logo=css"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/Tailwindcss-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=Tailwindcss"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/JavaScript-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=JavaScript"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/TypeScript-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=TypeScript"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/Node.js-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=Node.js"> <img src="./images/arrow.svg"> 
-<img src="https://img.shields.io/badge/Vue.js-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=Vue.js"> <img src="./images/arrow.svg"> 
-
+<img src="https://img.shields.io/badge/Vue.js-%E6%9C%AA%E5%BC%80%E5%A7%8B-green?logo=Vue.js">
 <br><br>
+<img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95"> <img src="./images/arrow.svg"> 
+<img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86"> <img src="./images/arrow.svg"> 
+<img src="https://img.shields.io/badge/%E6%95%B0%E7%94%B5%E4%B8%8E%E6%A8%A1%E7%94%B5-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E6%95%B0%E7%94%B5%E4%B8%8E%E6%A8%A1%E7%94%B5"> <img src="./images/arrow.svg"> 
+<img src="https://img.shields.io/badge/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F"> <img src="./images/arrow.svg"> 
+<img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C">
+<br><br>
+
 
 </td></tr>
 
