@@ -7,7 +7,7 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <img src="./code.gif">
+    <img src="./images/code.gif">
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -36,7 +36,7 @@
 
 </td></tr>
 
-<tr><td>
+<**tr**><td>
 
 ### 📊 学习目标
 
@@ -94,7 +94,7 @@
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="./line.gif" />
+<img width="200%" src="./images/line.gif" />
 
 <div align="center" >
 
