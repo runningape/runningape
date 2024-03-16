@@ -98,6 +98,9 @@
 <img width="200%" src="./line.gif" />
 
 <div align="center" >
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--  skill badge 技能徽章 -->
 
