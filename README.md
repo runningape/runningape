@@ -68,6 +68,7 @@
 <img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C">
 <br><br>
 
+![Snake animation](https://github.com/runningape/runningape/blob/output/github-contribution-grid-snake.svg)
 
 </td></tr>
 
