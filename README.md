@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/linux-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=linux">
 <br><br>
 <img src="https://img.shields.io/badge/HTML-%E5%B7%B2%E5%AD%A6%E5%AE%8C-cyan?logo=html5"> <img src="./images/arrow.svg"> 
-<img src="https://img.shields.io/badge/css-%E5%AD%A6%E4%B9%A0%E4%B8%AD-Indigo?logo=css"> <img src="./images/arrow.svg"> 
+<img src="https://img.shields.io/badge/css-%E5%AD%A6%E4%B9%A0%E4%B8%AD-Indigo?logo=css3"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/Tailwindcss-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=Tailwindcss"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/JavaScript-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=JavaScript"> <img src="./images/arrow.svg"> 
 <img src="https://img.shields.io/badge/TypeScript-%E6%9C%AA%E5%BC%80%E5%A7%8B-yellow?logo=TypeScript"> <img src="./images/arrow.svg"> 
