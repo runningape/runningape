@@ -108,7 +108,10 @@
 <img width="200%" src="./line.gif" />
 
 <div align="center" >
+
+  
 <!--START_SECTION:waka-->
+  
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-487-blue)
