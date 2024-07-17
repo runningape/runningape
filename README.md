@@ -121,8 +121,6 @@
 
 > 📦 3.5 kB Used in GitHub's Storage 
  > 
-> 🏆 160 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -183,7 +181,7 @@ Lua                      1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/runningape/runningape/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2024 18:38:08 UTC
+ Last Updated on 17/07/2024 18:39:06 UTC
 <!--END_SECTION:waka-->
 
 
